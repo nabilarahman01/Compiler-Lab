@@ -1,0 +1,1 @@
+[pp #include<stdio.h>int] [id main] [par (] [kw void] [par )] [par {] [id printf] [par (] [sep "] [id Hello] [sep "] [par )] [sep ;] [id printf] [par (] [sep "] [id World] [sep "] [par )] [sep ;] [kw return] [num 0] [sep ;] [par }] 

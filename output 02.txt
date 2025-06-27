@@ -1,0 +1,9 @@
+[unkn #] ERROR: Unknown lexeme #
+[id include] [unkn <] ERROR: Unknown lexeme <
+[id stdio] [unkn .] ERROR: Unknown lexeme .
+[id h] [unkn >] ERROR: Unknown lexeme >
+[kw int] [id main] [sep (] [id void] [sep )] [sep {] [id printf] [sep (] [unkn "] ERROR: Unknown lexeme "
+[id Hello] [unkn "] ERROR: Unknown lexeme "
+[sep )] [sep ;] [id printf] [sep (] [unkn "] ERROR: Unknown lexeme "
+[id World] [unkn "] ERROR: Unknown lexeme "
+[sep )] [sep ;] [kw return] [num 0] [sep ;] [sep }] 
