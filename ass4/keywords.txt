@@ -1,0 +1,12 @@
+char
+int
+float
+double
+if
+else
+while
+for
+void
+break
+continue
+return

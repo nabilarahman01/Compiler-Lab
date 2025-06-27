@@ -1,0 +1,15 @@
+1  
+2  
+3 kw float id x1 = 3 . 125 ; ; ; 
+4  
+5 id double id f1 ( kw float id b , kw int kw int id x ) 
+6 { kw if ( id x < id x1 ) 
+7 id double id z ; ; 
+8 kw else id z = 0 . 01 + id x * 5 . 5 ; } } 
+9 kw else kw return id z ; 
+10 } 
+11  
+12 kw int id main ( kw void ) 
+13 { { { { 
+14 kw int id n1 ; id double id z ; 
+15 id n1 = 25 ; id z = id f1 ( id n1 ) ; } 

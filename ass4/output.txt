@@ -1,0 +1,7 @@
+Duplicate token ';' at line 3
+Duplicate token ';' at line 3
+Duplicate token ';' at line 7
+Misplaced '}' at line 8
+Misplaced '}' at line 10
+Unmatched '{' found
+Unmatched 'else' at line 9
